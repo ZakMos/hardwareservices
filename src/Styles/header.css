@@ -1,0 +1,15 @@
+.App-header {
+    min-height: 6vh;
+    font-family: va(--font-secondary);
+  }
+  
+  .nav-brand {
+    margin-left: 0.5em;
+  }
+  
+  .logo {
+    background-color: var(--primary-white);
+    border-radius: 50%;
+    padding-top: 0.5em;
+    height: 60%;
+  }
